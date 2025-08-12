@@ -2,6 +2,6 @@
 
 
 - 🔭 I love coding in Python, Java and Rust!
-- 💬 Ask me about Computer Network, SQL, Parallel/Async Programming and Algorithms!
+- 💬 Ask me about MLLM/LLM, Machine Learning, AI4Robotics!
 - 📫 How to reach me: yiyangliuu@gmail.com
 
